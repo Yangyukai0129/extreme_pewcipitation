@@ -1,0 +1,1 @@
+SELECT * FROM rainfall.pingtung_county where Date = '2022-01-01';
